@@ -1,2 +1,2 @@
-# Viessman-optical-interface
+# Viessmann-optical-interface
 Optical interface for Viessmann Vitotronic
